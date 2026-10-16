@@ -1,0 +1,6 @@
+{
+  "name": "TimeTastic - Learn to Tell Time",
+  "description": "A fun, interactive educational clock app for children to learn analog and digital time with guided lessons, draggable clocks, games, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
